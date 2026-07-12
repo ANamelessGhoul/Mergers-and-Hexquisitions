@@ -45,6 +45,7 @@ else()
 endif()
 
 #set(raylib_VERBOSE 1)
+target_compile_definitions(raylib PUBLIC "-DSUPPORT_SPLINE_MITERS")
 target_link_libraries(${PROJECT_NAME} raylib)
 
 # Web Configurations
