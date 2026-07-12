@@ -61,7 +61,7 @@ PROJECT_LIBRARY_NAME   ?= main
 PROJECT_BUILD_ID       ?= android
 PROJECT_BUILD_PATH     ?= $(PROJECT_BUILD_ID).$(PROJECT_NAME)
 PROJECT_RESOURCES_PATH ?= resources
-PROJECT_SOURCE_FILES   ?= simple_game.c
+PROJECT_SOURCE_FILES   ?= simple_game.c stringlib.c
 
 # Some source files are placed in directories, when compiling to some 
 # output directory other than source, that directory must pre-exist.

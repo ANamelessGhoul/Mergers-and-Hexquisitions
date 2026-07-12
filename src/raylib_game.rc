@@ -9,13 +9,13 @@ BEGIN
     //BLOCK "080904E4"     // English UK
     BLOCK "040904E4"    // English US
     BEGIN
-      VALUE "CompanyName", "raylib technologies"
-      VALUE "FileDescription", "raylib-game | A great game"
+      VALUE "CompanyName", "Tecelli Akintug"
+      VALUE "FileDescription", "mergers-and-hexquisitions | Use magic hexes to manipulate the market and take advantage of capitalism."
       VALUE "FileVersion", "1.0"
-      VALUE "InternalName", "raylib-game"
+      VALUE "InternalName", "mergers-and-hexquisitions"
       VALUE "LegalCopyright", "(c) 2025 raylib technologies (@raylibtech)"
       //VALUE "OriginalFilename", "raylib_app.exe"
-      VALUE "ProductName", "raylib-game"
+      VALUE "ProductName", "mergers-and-hexquisitions"
       VALUE "ProductVersion", "1.0"
     END
   END
