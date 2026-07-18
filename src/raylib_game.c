@@ -1852,12 +1852,12 @@ static SpellKind SpellBucketPick()
     {
         if (GAME.spell_bucket[i] != SPELL_NONE)
         {
-            rand_order--;
             if (rand_order == 0)
             {
                 picked_idx = i;
                 break;
             }
+            rand_order--;
         }
     }
 
